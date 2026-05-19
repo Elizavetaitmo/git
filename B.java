@@ -19,4 +19,8 @@ public class B extends H {
     public byte oo() {
         return 3;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }

@@ -10,5 +10,10 @@ public class F extends null {
 
     public java.util.Random mm() {
         return new java.util.Random();
+        return new int[]{4, 3, 2, 1};
     }
-}
+
+    public Object rr() {
+        return null;
+    }
+

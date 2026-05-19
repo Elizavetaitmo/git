@@ -1,4 +1,5 @@
 public class H extends null implements F, K {
+public class H extends null implements F, K {
 
     private long c = 1234;
 

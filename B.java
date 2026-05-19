@@ -38,5 +38,23 @@ public class B extends H {
 
     public String kk() {
         return "Yes";
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
-}
+
+    public void ab() {
+        return;
+    }
+
+    public String kk() {
+        return "Hello world";
+    }
+
+    public int cc() {
+        return 13;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+    }

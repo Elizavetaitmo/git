@@ -56,4 +56,16 @@ public class H extends null implements F, K {
     public Object rr() {
         return null;
     }
+
+    public Object pp() {
+        return this;
+    }
+
+    public long dd() {
+        return 100500;
+    }
+
+    public int af() {
+        return -1;
+    }
 }

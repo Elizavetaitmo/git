@@ -58,3 +58,7 @@ public class B extends H {
         return new java.util.LinkedList<Integer>;
     }
     }
+    public double ad() {
+        return java.lang.Math.sqrt(13);
+    }
+}

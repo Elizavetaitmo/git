@@ -19,4 +19,16 @@ public class B extends H {
     public byte oo() {
         return 3;
     }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }

@@ -31,4 +31,8 @@ public class H implements F, K {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public Object pp() {
+        return this;
+    }
 }

@@ -15,4 +15,8 @@ public class B extends H {
     public Object rr() {
         return null;
     }
+
+    public byte oo() {
+        return 3;
+    }
 }

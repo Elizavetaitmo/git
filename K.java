@@ -1,6 +1,14 @@
-public interface K {
+public class K extends null {
 
     double ee();
 
     int hh();
-}//q
+
+    public long ac() {
+        return 111;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+}

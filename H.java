@@ -1,4 +1,4 @@
-public class H implements F, K {
+public class H extends null implements F, K {
 
     private long c = 1234;
 
@@ -28,15 +28,35 @@ public class H implements F, K {
         return new java.util.Random().nextInt();
     }
 
-    public String nn() {
-        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
-    }
-
     public Object pp() {
         return this;
     }
 
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
     public long dd() {
         return 100500;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public long ac() {
+        return 333;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public void bb() {
+        System.out.println(42);
     }
 }

@@ -1,6 +1,14 @@
-public interface F {
+public class F extends null {
 
     int ae();
 
     float ff();
-}//q
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
+
+    public Object rr() {
+        return null;
+    }
+}

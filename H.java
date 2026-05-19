@@ -39,4 +39,8 @@ public class H implements F, K {
     public long dd() {
         return 100500;
     }
+
+    public int af() {
+        return -1;
+    }
 }

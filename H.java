@@ -35,4 +35,8 @@ public class H implements F, K {
     public Object pp() {
         return this;
     }
+
+    public long dd() {
+        return 100500;
+    }
 }
